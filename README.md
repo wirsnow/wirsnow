@@ -40,5 +40,3 @@ Windows                  37 hrs 7 mins       ███████████�
 
  Last Updated on 21/11/2025 18:46:50 UTC
 <!--END_SECTION:waka-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wirsnow&layout=compact&theme=tokyonight)](https://github.com/wirsnow?tab=repositories)  
-
