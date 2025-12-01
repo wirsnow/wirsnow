@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C545%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C550%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
 
@@ -7,9 +7,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 834.1 kB Used in GitHub's Storage 
+> 📦 832.8 kB Used in GitHub's Storage 
  > 
-> 🏆 2,580 Contributions in the Year 2025
+> 🏆 2,601 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,9 +34,9 @@ Sunday                   2 commits           ███░░░░░░░░�
 
 ```text
 💻 Operating System: 
-Windows                  61 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  60 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/11/2025 18:47:49 UTC
+ Last Updated on 01/12/2025 18:56:49 UTC
 <!--END_SECTION:waka-->
