@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C588%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C596%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -7,9 +7,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 834.4 kB Used in GitHub's Storage 
+> 📦 834.6 kB Used in GitHub's Storage 
  > 
-> 🏆 2,666 Contributions in the Year 2025
+> 🏆 2,670 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -17,6 +17,26 @@
  > 
 > 🔑 25 Private Repositories 
  > 
+📅 **I'm Most Productive on Friday** 
 
- Last Updated on 08/12/2025 18:52:22 UTC
+```text
+Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Tuesday                  2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Friday                   7 commits           ██████████░░░░░░░░░░░░░░░   41.18 % 
+Saturday                 4 commits           ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Sunday                   2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💻 Operating System: 
+Windows                  36 hrs 47 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 09/12/2025 18:51:29 UTC
 <!--END_SECTION:waka-->
