@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C667%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C674%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -34,9 +34,9 @@ Sunday                   450 commits         ███░░░░░░░░�
 
 ```text
 💻 Operating System: 
-Windows                  37 hrs 49 mins      █████████████████████████   100.00 % 
+Windows                  40 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/12/2025 18:48:55 UTC
+ Last Updated on 21/12/2025 18:50:49 UTC
 <!--END_SECTION:waka-->
