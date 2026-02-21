@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C970%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C970%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -7,9 +7,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 830.5 kB Used in GitHub's Storage 
+> 📦 830.6 kB Used in GitHub's Storage 
  > 
-> 🏆 405 Contributions in the Year 2026
+> 🏆 414 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -17,6 +17,26 @@
  > 
 > 🔑 29 Private Repositories 
  > 
+📅 **I'm Most Productive on Tuesday** 
 
- Last Updated on 19/02/2026 16:07:44 UTC
+```text
+Monday                   609 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Tuesday                  843 commits         █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+Wednesday                679 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Thursday                 660 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Friday                   641 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Saturday                 655 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Sunday                   499 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💻 Operating System: 
+Windows                  10 hrs 28 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 21/02/2026 15:44:08 UTC
 <!--END_SECTION:waka-->
